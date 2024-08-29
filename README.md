@@ -1,4 +1,4 @@
-## Application Demo
+## Helene Duebel Application Demo
 
 Hello! Welcome to my Gaussian HMM demo. Check out how this cool probabilistic state space model works, feel free to check out the hmm.ipynb
 file to see how the GaussianHMM class is coded, or the hmmglm.ipynb file to see how we can incorporate a generalised linear model into the HMM!
