@@ -9,7 +9,7 @@ import nbimporter
 from hmm import GaussianHMM
 ```
 
-Given a time-dependent sequence of observed data with an underlying k latent Gaussian state structure:
+Given a time-dependent sequence of observed data with an underlying latent Gaussian k state structure:
 
 ```python
 data = pd.read_csv('observations_gaussian.csv')
